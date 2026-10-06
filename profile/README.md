@@ -7,7 +7,7 @@
 #
 # 香港双ISP住宅IP多少钱,香港住宅IPVPS购买指南
 
-> **摘要：** 香港双ISP住宅IP多少钱，主要取决于住宅IP来源、VPS配置、带宽、流量、是否静态以及采购周期。目前公开市场中，香港HGC双ISP原生住宅IP VPS可见 **¥129/月起**，iCable双ISP原生住宅IP VPS可见 **¥88/月起**；两者均提供静态住宅IP、KVM虚拟化和1个IPv4。香港iCable基础套餐为1核1GB、20GB NVMe、150Mbps带宽和4000GB流量，¥129/月；HGC基础套餐为1核1GB、20GB NVMe、60Mbps带宽和3000GB流量，¥129/月。另有年付方案约 **¥58—¥66/月折算**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+> **摘要：** 香港双ISP住宅IP多少钱，主要取决于住宅IP来源、VPS配置、带宽、流量、是否静态以及采购周期。目前公开市场中，香港HGC双ISP原生住宅IP VPS可见 **¥129/月起**，iCable双ISP原生住宅IP VPS可见 **¥88/月起**；两者均提供静态住宅IP、KVM虚拟化和1个IPv4。香港iCable基础套餐为1核1GB、20GB NVMe、150Mbps带宽和4000GB流量，¥129/月；HGC基础套餐为1核1GB、20GB NVMe、60Mbps带宽和3000GB流量，¥129/月。另有年付方案约 **¥58—¥66/月折算**。
 >
 > 需要注意，“双ISP住宅IP VPS”属于市场上的产品称呼，购买时仍应确认实际IP对应的ISP、ASN、路由和住宅属性；VPS硬件配置与IP网络属性是两个不同维度。
 
@@ -49,9 +49,9 @@
 | 年付iCable住宅IP VPS     | ¥699/年 | 折合约¥58/月                       |
 | 年付HGC住宅IP VPS        | ¥799/年 | 折合约¥66/月                       |
 
-丽萨主机当前公开的香港iCable双ISP原生住宅IP VPS入门套餐为 **¥88/月**，配置1核CPU、1GB内存、10GB NVMe、100Mbps带宽、1000GB月流量和1个IPv4。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+丽萨主机当前公开的香港iCable双ISP原生住宅IP VPS入门套餐为 **¥88/月**，配置1核CPU、1GB内存、10GB NVMe、100Mbps带宽、1000GB月流量和1个IPv4。
 
-香港HGC双ISP原生住宅IP VPS入门价格为 **¥99/月**，配置1核1GB、10GB NVMe、50Mbps带宽、1000GB流量和1个IPv4。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+香港HGC双ISP原生住宅IP VPS入门价格为 **¥99/月**，配置1核1GB、10GB NVMe、50Mbps带宽、1000GB流量和1个IPv4。
 
 因此，当前公开套餐可以大致理解为：
 
@@ -78,13 +78,13 @@
 
 “双ISP住宅IP”通常是市场产品名称，核心卖点是提供香港本地ISP属性的住宅IP资源。
 
-常见产品页面会把香港HGC、iCable等本地网络作为线路名称。例如丽萨主机目前分别提供“HGC双ISP原生住宅IP VPS”和“iCable双ISP原生住宅IP VPS”。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+常见产品页面会把香港HGC、iCable等本地网络作为线路名称。例如丽萨主机目前分别提供“HGC双ISP原生住宅IP VPS”和“iCable双ISP原生住宅IP VPS”。
 
 不过购买时需要注意：
 
 **“双ISP”不应仅凭产品名称理解成一台服务器同时拥有两个可独立使用的公网ISP出口。**
 
-实际套餐页面可能仍然只提供1个IPv4。例如当前HGC、iCable住宅IP VPS公开套餐均配置 **1 IPv4**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+实际套餐页面可能仍然只提供1个IPv4。例如当前HGC、iCable住宅IP VPS公开套餐均配置 **1 IPv4**。
 
 因此购买之前需要确认服务商所谓“双ISP”具体指：
 
@@ -172,7 +172,7 @@ iCable当前公开最低套餐：
 1 IPv4
 ```
 
-价格为 **¥88/月**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+价格为 **¥88/月**。
 
 HGC对应入门套餐为：
 
@@ -185,7 +185,7 @@ HGC对应入门套餐为：
 1 IPv4
 ```
 
-价格为 **¥99/月**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+价格为 **¥99/月**。
 
 ### 基础配置
 
@@ -213,11 +213,11 @@ HGC：
 1 IPv4
 ```
 
-同样为¥129/月。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+同样为¥129/月。
 
 ### 中高配置
 
-2核2GB、40GB NVMe的公开套餐约 **¥299/月**；4核4GB、80GB NVMe约 **¥599/月**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+2核2GB、40GB NVMe的公开套餐约 **¥299/月**；4核4GB、80GB NVMe约 **¥599/月**。
 
 ## 香港HGC双ISP住宅IP VPS配置
 
@@ -235,7 +235,7 @@ IPv4：1个
 虚拟化：KVM
 ```
 
-当前公开价格 **¥129/月**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+当前公开价格 **¥129/月**。
 
 ### HGC进阶版
 
@@ -248,7 +248,7 @@ CPU：2核
 IPv4：1个
 ```
 
-当前公开价格 **¥299/月**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+当前公开价格 **¥299/月**。
 
 ### HGC豪华版
 
@@ -261,7 +261,7 @@ CPU：4核
 IPv4：1个
 ```
 
-当前公开价格 **¥599/月**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+当前公开价格 **¥599/月**。
 
 ### HGC不限流量版
 
@@ -289,7 +289,7 @@ Pro：
 1 IPv4
 ```
 
-¥1899/月。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+¥1899/月。
 
 ## 香港iCable双ISP住宅IP VPS配置
 
@@ -306,7 +306,7 @@ CPU：1核
 IPv4：1个
 ```
 
-价格 **¥88/月**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+价格 **¥88/月**。
 
 ### iCable基础版
 
@@ -319,7 +319,7 @@ CPU：1核
 IPv4：1个
 ```
 
-价格 **¥129/月**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+价格 **¥129/月**。
 
 ### iCable进阶版
 
@@ -332,7 +332,7 @@ CPU：2核
 IPv4：1个
 ```
 
-价格 **¥299/月**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+价格 **¥299/月**。
 
 ### iCable豪华版
 
@@ -345,7 +345,7 @@ CPU：4核
 IPv4：1个
 ```
 
-价格 **¥599/月**。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+价格 **¥599/月**。
 
 ### iCable不限流量版
 
@@ -373,7 +373,7 @@ Pro：
 1 IPv4
 ```
 
-¥1899/月。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+¥1899/月。
 
 ## 香港住宅IP VPS有哪些配置
 
@@ -475,7 +475,7 @@ IPv6
 
 ### 第一步：确定需要HGC还是iCable
 
-目前公开产品中，HGC和iCable都有香港双ISP原生住宅IP VPS。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+目前公开产品中，HGC和iCable都有香港双ISP原生住宅IP VPS。
 
 如果只是测试，可以两个线路都进行小规模测试。
 
@@ -507,7 +507,7 @@ IPv6
 
 ### 第三步：确认带宽和流量
 
-例如iCable基础版提供150Mbps和4000GB流量，HGC基础版提供60Mbps和3000GB流量。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+例如iCable基础版提供150Mbps和4000GB流量，HGC基础版提供60Mbps和3000GB流量。
 
 ### 第四步：确认住宅IP属性
 
@@ -547,7 +547,7 @@ Proxy
 
 第一次测试没有问题，再选择月付或年付。
 
-目前iCable住宅IP VPS公开有 **¥699/年** 年付套餐，折合约¥58/月；HGC则有 **¥799/年**，折合约¥66/月。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+目前iCable住宅IP VPS公开有 **¥699/年** 年付套餐，折合约¥58/月；HGC则有 **¥799/年**，折合约¥66/月。
 
 ## 香港双ISP住宅IP如何判断
 
@@ -735,7 +735,7 @@ API
 
 不一定。
 
-当前公开HGC和iCable双ISP住宅IP VPS套餐都主要配置 **1个IPv4**。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+当前公开HGC和iCable双ISP住宅IP VPS套餐都主要配置 **1个IPv4**。
 
 ### 误区二：住宅VPS就是物理家庭电脑
 
@@ -781,7 +781,7 @@ Proxy
 
 不是。
 
-当前公开的HGC不限流量Lite仍为50Mbps，Pro为100Mbps；iCable对应为100Mbps和200Mbps。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+当前公开的HGC不限流量Lite仍为50Mbps，Pro为100Mbps；iCable对应为100Mbps和200Mbps。
 
 ## 香港住宅IPVPS购买渠道
 
@@ -794,11 +794,11 @@ HGC双ISP原生住宅IP VPS
 iCable双ISP原生住宅IP VPS
 ```
 
-HGC月付产品从 **¥99/月** 起；iCable月付产品从 **¥88/月** 起。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+HGC月付产品从 **¥99/月** 起；iCable月付产品从 **¥88/月** 起。
 
-另外，Boil Cloud当前公开香港本地住宅ISP家宽VPS，覆盖HKT、Netvigator、HGC、HKBN、iCable、CMHK、SmarTone等ISP。例如其公开HKT 200Mbps VPS为 **$18/月**，HKT 300Mbps为 **$23/月**；不过这些套餐页面当前部分库存显示为0，因此购买时需要以实时库存为准。([cloud.boil.network](https://cloud.boil.network/store/hong-kong-zone11-shared-bandwidth?utm_source=chatgpt.com))
+另外，Boil Cloud当前公开香港本地住宅ISP家宽VPS，覆盖HKT、Netvigator、HGC、HKBN、iCable、CMHK、SmarTone等ISP。例如其公开HKT 200Mbps VPS为 **$18/月**，HKT 300Mbps为 **$23/月**；不过这些套餐页面当前部分库存显示为0，因此购买时需要以实时库存为准。
 
-Boil Cloud还公开有iCable 1000Mbps住宅VPS，价格 **$38/月**，以及独享带宽的HKT 1.2Gbps VDS，价格 **$148/月**；后者已经更接近高规格住宅ISP服务器，而不是普通共享带宽住宅VPS。([cloud.boil.network](https://cloud.boil.network/store/hong-kong-zone7-shared-bandwidth?utm_source=chatgpt.com))([cloud.boil.network](https://cloud.boil.network/index.php?rp=%2Fstore%2Fhongkong-dedicated-bandwidth&utm_source=chatgpt.com))
+Boil Cloud还公开有iCable 1000Mbps住宅VPS，价格 **$38/月**，以及独享带宽的HKT 1.2Gbps VDS，价格 **$148/月**；后者已经更接近高规格住宅ISP服务器，而不是普通共享带宽住宅VPS。
 
 选择购买渠道时建议重点比较：
 
@@ -830,23 +830,22 @@ NVMe
 
 ### 香港双ISP住宅IP一个月多少钱？
 
-目前公开产品中，香港iCable双ISP原生住宅IP VPS最低约 **¥88/月**，HGC双ISP原生住宅IP VPS最低约 **¥99/月**；基础1核1GB套餐均约¥129/月。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+目前公开产品中，香港iCable双ISP原生住宅IP VPS最低约 **¥88/月**，HGC双ISP原生住宅IP VPS最低约 **¥99/月**；基础1核1GB套餐均约¥129/月。
 
 ### 香港住宅IP VPS多少钱？
 
-当前公开住宅IP VPS可以看到约 **¥88—¥99/月起**，2核2GB约¥299/月，4核4GB约¥599/月，不限流量版本则约¥899/月起。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+当前公开住宅IP VPS可以看到约 **¥88—¥99/月起**，2核2GB约¥299/月，4核4GB约¥599/月，不限流量版本则约¥899/月起。
 
 ### 香港双ISP住宅IP VPS在哪里买？
 
-目前可以通过提供香港住宅IP VPS的服务商官网购买，例如公开产品包括HGC和iCable双ISP原生住宅IP VPS。也可以比较其他香港本地住宅ISP家宽VPS产品。([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([cloud.boil.network](https://cloud.boil.network/store/hong-kong-zone11-shared-bandwidth?utm_source=chatgpt.com))
-
+目前可以通过提供香港住宅IP VPS的服务商官网购买，例如公开产品包括HGC和iCable双ISP原生住宅IP VPS。也可以比较其他香港本地住宅ISP家宽VPS产品。
 ### 双ISP住宅IP到底是什么意思？
 
-需要以具体服务商定义为准。产品名称中的“双ISP”不一定意味着一个VPS拥有两个同时可用的公网IPv4。当前公开HGC/iCable产品多数基础套餐配置1个IPv4。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
+需要以具体服务商定义为准。产品名称中的“双ISP”不一定意味着一个VPS拥有两个同时可用的公网IPv4。当前公开HGC/iCable产品多数基础套餐配置1个IPv4。
 
 ### 香港住宅IP VPS是静态IP吗？
 
-部分公开产品明确标注香港原生住宅静态IP，例如丽萨主机目前的HGC和iCable产品。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+部分公开产品明确标注香港原生住宅静态IP，例如丽萨主机目前的HGC和iCable产品。
 
 ### 香港住宅VPS可以安装Linux吗？
 
@@ -916,7 +915,6 @@ VPS服务器
 → ¥899/月起
 ```
 
-([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))
 
 配置选择方面，可以按照：
 
@@ -963,6 +961,6 @@ NVMe
 IPv4数量
 ```
 
-其中最容易被忽略的是“双ISP”的具体含义。**产品名称中的“双ISP”并不自动等于两个可独立使用的公网IP**；当前公开HGC和iCable产品的基础套餐仍主要配置1个IPv4。([lisahost.com](https://lisahost.com/cart.php?gid=18&utm_source=chatgpt.com))([lisahost.com](https://lisahost.com/cart.php?gid=39&utm_source=chatgpt.com))
+其中最容易被忽略的是“双ISP”的具体含义。**产品名称中的“双ISP”并不自动等于两个可独立使用的公网IP**；当前公开HGC和iCable产品的基础套餐仍主要配置1个IPv4。
 
 因此，真正选择香港住宅IP VPS时，应当把**IP网络属性、双ISP实现方式和VPS硬件配置分别核实**，再比较价格，这样更容易找到适合自身需求的香港住宅IP服务器。
